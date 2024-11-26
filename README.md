@@ -7,7 +7,9 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 
 ## Key Challenges Identified:
 •	**Inconsistent Revenue Trends:** Disparities in revenue performance across cities and room categories were evident.
+
 •	**Weekday vs. Weekend Performance:** Weekends (Friday and Saturday) outperformed weekdays in occupancy and revenue, highlighting a need for midweek strategies.
+
 •	**Platform Variability:** Realization percentages varied significantly across booking channels, affecting profitability.
 
 ## Approach Taken:
@@ -18,15 +20,19 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 
 ## Key Metrics and Their Importance:
 1.	**No Show Rate:** Percentage of confirmed bookings where guests fail to check in. High no-show rates directly impact both revenue and operational planning.
+   
     **Formula:** (No Shows / Total Bookings)×100\text{(No Shows / Total Bookings)} \times 100(No Shows / Total Bookings)×100.
-2.	**DURN (Daily Utilized Room Nights):** Total number of rooms occupied on a given day, reflecting demand fulfillment.
-3.	**DSRN (Daily Sellable Room Nights):** Total room inventory available for sale daily. Essential for capacity planning.
-4.	**ADR (Average Daily Rate)**: Measures the average revenue earned per occupied room, indicating pricing efficiency.
+3.	**DURN (Daily Utilized Room Nights):** Total number of rooms occupied on a given day, reflecting demand fulfillment.
+4.	**DSRN (Daily Sellable Room Nights):** Total room inventory available for sale daily. Essential for capacity planning.
+5.	**ADR (Average Daily Rate)**: Measures the average revenue earned per occupied room, indicating pricing efficiency.
+   
     **Formula**: Revenue / Number of Occupied Rooms\text{Revenue / Number of Occupied Rooms}Revenue / Number of Occupied Rooms.
-5.	**DBRN (Daily Booked Room Nights)**: Total room nights booked per day, providing insights into booking trends.
-6.	**RevPAR (Revenue Per Available Room):** Combines occupancy and ADR to measure overall revenue performance.
+7.	**DBRN (Daily Booked Room Nights)**: Total room nights booked per day, providing insights into booking trends.
+8.	**RevPAR (Revenue Per Available Room):** Combines occupancy and ADR to measure overall revenue performance.
+   
     **Formula:** Revenue / Number of Available Rooms\text{Revenue / Number of Available Rooms}Revenue / Number of Available Rooms.
-7.	**Realization Percentage:** Indicates revenue efficiency after accounting for cancellations, no-shows, and discounts.
+10.	**Realization Percentage:** Indicates revenue efficiency after accounting for cancellations, no-shows, and discounts.
+    
     **Formula:** (Revenue Earned / Revenue Booked)×100\text{(Revenue Earned / Revenue Booked)} \times 100(Revenue Earned / Revenue Booked)×100.
 
 ## Key Findings and Insights:
