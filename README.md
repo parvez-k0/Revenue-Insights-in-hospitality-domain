@@ -42,9 +42,10 @@ Their revenue management team had decided to hire a 3rd party service provider t
 2.	**Weekday vs. Weekend Dynamics:** Weekends **(Friday and Saturday)** showed an average occupancy of **62.64%,** compared to **55.85% on weekdays**. This suggests potential for targeted weekday promotions to increase revenue.
 3.	**Direct Booking Platforms:** Platforms with **direct bookings** delivered the highest realization **percentage (70.6%)**, emphasizing the value of loyalty programs and direct engagement with guests.
 4.	**Property Performance:**
-        o	**Top-Performing Properties:** "Atliq City" in **Mumbai generated highest revenue followed by Banglore and Hyderabad**, showcasing strong revenue potential in the city.
+5.	
+   	o**Top-Performing Properties:** "Atliq City" in **Mumbai generated highest revenue followed by Banglore and Hyderabad**, showcasing strong revenue potential in the city.
   	
-        o	**Underperforming Locations:** Properties in certain cities lagged behind, requiring localized marketing efforts and dynamic pricing strategies.
+   	o**Underperforming Locations:** Properties in certain cities lagged behind, requiring localized marketing efforts and dynamic pricing strategies.
 6.	**Booking Channel Optimization**: OTAs showed higher volumes but lower realization percentages, pointing to the need for better negotiation or prioritizing direct bookings.
 
 
