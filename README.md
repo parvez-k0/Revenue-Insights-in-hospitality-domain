@@ -22,7 +22,7 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 
 1.	**No Show Rate:** Percentage of confirmed bookings where guests fail to check in. High no-show rates directly impact both revenue and operational planning.
 
-   	   Formula: (No Shows / Total Bookings)×100
+   	    Formula: (No Shows / Total Bookings)×100
    
 2.	**DURN (Daily Utilized Room Nights):** Total number of rooms occupied on a given day, reflecting demand fulfillment.
 
