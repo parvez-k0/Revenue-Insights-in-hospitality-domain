@@ -56,8 +56,11 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 ## Overall Results and Strategic Impact:
 **This analysis revealed:**
 •	**Revenue Growth Potential:** By focusing on weekday occupancy and leveraging direct booking platforms, properties can significantly boost revenue.
+
 •	**Benchmarking Success**: High-performing cities like Bangalore can serve as models for replicating best practices in other regions.
+
 •	**Optimized Resource Allocation:** Insights into platform performance and room category trends allow better resource allocation, maximizing profitability.
+
 •	**Sustainability:** Adopting dynamic pricing and personalized marketing ensures long-term growth and customer loyalty.
 
 # Impact:
