@@ -24,12 +24,15 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
   **Formula:** 
    (No Shows / Total Bookings)×100
 3.	**DURN (Daily Utilized Room Nights):** Total number of rooms occupied on a given day, reflecting demand fulfillment.
+
 4.	**DSRN (Daily Sellable Room Nights):** Total room inventory available for sale daily. Essential for capacity planning.
-5.	**ADR (Average Daily Rate)**: Measures the average revenue earned per occupied room, indicating pricing efficiency.
+5.	
+6.	**ADR (Average Daily Rate)**: Measures the average revenue earned per occupied room, indicating pricing efficiency.
    
    **Formula:** 
    Revenue / Number of Occupied Rooms
 7.	**DBRN (Daily Booked Room Nights)**: Total room nights booked per day, providing insights into booking trends.
+
 8.	**RevPAR (Revenue Per Available Room):** Combines occupancy and ADR to measure overall revenue performance.
    
    **Formula:** Revenue / Number of Available Rooms.
