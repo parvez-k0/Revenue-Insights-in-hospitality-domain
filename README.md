@@ -20,27 +20,29 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 
 ## Key Metrics and Their Importance:
 1.	**No Show Rate:** Percentage of confirmed bookings where guests fail to check in. High no-show rates directly impact both revenue and operational planning.
-   
-    **Formula:** (No Shows / Total Bookings)×100\text{(No Shows / Total Bookings)} \times 100(No Shows / Total Bookings)×100.
+
+  **Formula:** 
+   (No Shows / Total Bookings)×100
 3.	**DURN (Daily Utilized Room Nights):** Total number of rooms occupied on a given day, reflecting demand fulfillment.
 4.	**DSRN (Daily Sellable Room Nights):** Total room inventory available for sale daily. Essential for capacity planning.
 5.	**ADR (Average Daily Rate)**: Measures the average revenue earned per occupied room, indicating pricing efficiency.
    
-    **Formula**: Revenue / Number of Occupied Rooms\text{Revenue / Number of Occupied Rooms}Revenue / Number of Occupied Rooms.
+   **Formula:** 
+   Revenue / Number of Occupied Rooms
 7.	**DBRN (Daily Booked Room Nights)**: Total room nights booked per day, providing insights into booking trends.
 8.	**RevPAR (Revenue Per Available Room):** Combines occupancy and ADR to measure overall revenue performance.
    
-    **Formula:** Revenue / Number of Available Rooms\text{Revenue / Number of Available Rooms}Revenue / Number of Available Rooms.
+   **Formula:** Revenue / Number of Available Rooms.
 10.	**Realization Percentage:** Indicates revenue efficiency after accounting for cancellations, no-shows, and discounts.
     
-    **Formula:** (Revenue Earned / Revenue Booked)×100\text{(Revenue Earned / Revenue Booked)} \times 100(Revenue Earned / Revenue Booked)×100.
+   **Formula:** (Revenue Earned / Revenue Booked)×100.
 
 ## Key Findings and Insights:
 1.	**Revenue by Room Class:** Luxury rooms accounted for 61.62% of total revenue, underscoring their significance but also highlighting the need to diversify offerings for mid-range and business travelers.
-2.	**Weekday vs. Weekend Dynamics:** Weekends (Friday and Saturday) showed an average occupancy of 62.64%, compared to 55.85% on weekdays. This suggests potential for targeted weekday promotions to increase revenue.
-3.	**Direct Booking Platforms:** Platforms with direct bookings delivered the highest realization percentage (70.6%), emphasizing the value of loyalty programs and direct engagement with guests.
+2.	**Weekday vs. Weekend Dynamics:** Weekends **(Friday and Saturday)** showed an average occupancy of **62.64%,** compared to **55.85% on weekdays**. This suggests potential for targeted weekday promotions to increase revenue.
+3.	**Direct Booking Platforms:** Platforms with **direct bookings** delivered the highest realization **percentage (70.6%)**, emphasizing the value of loyalty programs and direct engagement with guests.
 4.	**Property Performance:**
-        o	**Top-Performing Properties:** "Atliq City" in Mumbai generated ₹117M, showcasing strong revenue potential in the city.
+        o	**Top-Performing Properties:** "Atliq City" in **Mumbai generated ₹117M**, showcasing strong revenue potential in the city.
         o	**Underperforming Locations:** Properties in certain cities lagged behind, requiring localized marketing efforts and dynamic pricing strategies.
 5.	**Booking Channel Optimization**: OTAs showed higher volumes but lower realization percentages, pointing to the need for better negotiation or prioritizing direct bookings.
 
