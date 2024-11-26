@@ -5,14 +5,12 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 
 # Problem Statement and Key Metrics Required to solve the problems
 
-## Key Challenges Identified:
-•	**Inconsistent Revenue Trends:** Disparities in revenue performance across cities and room categories were evident.
+## Problem Statement:
+Atliq Grands owns multiple 5-Star Hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from otheer competitors and ineffective decision-making  in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a Strategic move, the managing director of Atliq Grands wanted to incorporate "Business and Data Intelligence" in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. 
 
-•	**Weekday vs. Weekend Performance:** Weekends (Friday and Saturday) outperformed weekdays in occupancy and revenue, highlighting a need for midweek strategies.
+Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
-•	**Platform Variability:** Realization percentages varied significantly across booking channels, affecting profitability.
-
-## Approach Taken:
+## Approach:
 1.	**Organized the Data:** We gathered all the information about properties, cities, room types, and booking platforms into one place for easier analysis
 2.	**Trend Analysis:** We examined how revenue and occupancy changed throughout the week, identifying when business was booming and when it was slow.
 3.	**Performance Benchmarking:** We identified the properties and platforms that were doing well, so we could understand what worked and find areas for improvement.
@@ -46,20 +44,11 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 2.	**Weekday vs. Weekend Dynamics:** Weekends **(Friday and Saturday)** showed an average occupancy of **62.64%,** compared to **55.85% on weekdays**. This suggests potential for targeted weekday promotions to increase revenue.
 3.	**Direct Booking Platforms:** Platforms with **direct bookings** delivered the highest realization **percentage (70.6%)**, emphasizing the value of loyalty programs and direct engagement with guests.
 4.	**Property Performance:**
-        o	**Top-Performing Properties:** "Atliq City" in **Mumbai generated ₹117M**, showcasing strong revenue potential in the city.
+        o	**Top-Performing Properties:** "Atliq City" in **Mumbai generated highest revenue followed by Banglore and Hyderabad**, showcasing strong revenue potential in the city.
         o	**Underperforming Locations:** Properties in certain cities lagged behind, requiring localized marketing efforts and dynamic pricing strategies.
 5.	**Booking Channel Optimization**: OTAs showed higher volumes but lower realization percentages, pointing to the need for better negotiation or prioritizing direct bookings.
 
-# Solutions and Impact
-
-## Solutions to Overcome Challenges:
-1.	**Dynamic Pricing:** Implement AI-driven demand forecasting to optimize ADR and balance occupancy across weekdays and weekends.
-2.	**Corporate Partnerships:** Forge relationships with corporate clients to boost weekday bookings, offering discounts or customized packages.
-3.	**Enhanced Guest Experience:** Introduce personalized services, such as free upgrades or loyalty perks, to improve guest retention and satisfaction.
-4.	**Localized Campaigns:** For underperforming properties, invest in region-specific promotions and improve visibility on high-traffic booking platforms.
-5.	**No-Show Mitigation:** Reduce no-shows by requiring prepayments or deposits and sending automated reminders to guests.
-
-## Overall Results and Strategic Impact:
+# Result
 **This analysis revealed:**
 •	**Revenue Growth Potential:** By focusing on weekday occupancy and leveraging direct booking platforms, properties can significantly boost revenue.
 
@@ -69,9 +58,6 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 
 •	**Sustainability:** Adopting dynamic pricing and personalized marketing ensures long-term growth and customer loyalty.
 
-# Impact:
-The project provided stakeholders with a comprehensive roadmap to address key revenue challenges, optimize booking strategies, and enhance guest experiences. 
-By aligning operational practices with data-driven insights, properties are now better equipped to capitalize on growth opportunities and minimize revenue leakage.
 
 
 
