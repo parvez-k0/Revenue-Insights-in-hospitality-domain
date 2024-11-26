@@ -3,8 +3,6 @@
 In the dynamic hospitality industry, maximizing revenue requires a deep understanding of market trends, guest behavior, and operational efficiency. 
 This case study focuses on analyzing critical metrics such as **occupancy, ADR, RevPAR, and realization** percentage to provide actionable insights across properties, cities, and booking platforms.
 
-# Problem Statement and Key Metrics Required to solve the problems
-
 ## Problem Statement:
 Atliq Grands owns multiple 5-Star Hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from otheer competitors and ineffective decision-making  in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a Strategic move, the managing director of Atliq Grands wanted to incorporate "Business and Data Intelligence" in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. 
 
@@ -45,18 +43,11 @@ Their revenue management team had decided to hire a 3rd party service provider t
 3.	**Direct Booking Platforms:** Platforms with **direct bookings** delivered the highest realization **percentage (70.6%)**, emphasizing the value of loyalty programs and direct engagement with guests.
 4.	**Property Performance:**
         o	**Top-Performing Properties:** "Atliq City" in **Mumbai generated highest revenue followed by Banglore and Hyderabad**, showcasing strong revenue potential in the city.
+  	
         o	**Underperforming Locations:** Properties in certain cities lagged behind, requiring localized marketing efforts and dynamic pricing strategies.
-5.	**Booking Channel Optimization**: OTAs showed higher volumes but lower realization percentages, pointing to the need for better negotiation or prioritizing direct bookings.
+6.	**Booking Channel Optimization**: OTAs showed higher volumes but lower realization percentages, pointing to the need for better negotiation or prioritizing direct bookings.
 
-# Result
-**This analysis revealed:**
-•	**Revenue Growth Potential:** By focusing on weekday occupancy and leveraging direct booking platforms, properties can significantly boost revenue.
 
-•	**Benchmarking Success**: High-performing cities like Bangalore can serve as models for replicating best practices in other regions.
-
-•	**Optimized Resource Allocation:** Insights into platform performance and room category trends allow better resource allocation, maximizing profitability.
-
-•	**Sustainability:** Adopting dynamic pricing and personalized marketing ensures long-term growth and customer loyalty.
 
 
 
