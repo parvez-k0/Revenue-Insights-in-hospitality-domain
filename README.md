@@ -19,9 +19,10 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 4.	**Platform-Specific Insights:** We studied how different booking platforms affected revenue, looking at which ones generated the most bookings and which ones gave us the best value (realization percentage).
 
 ## Key Metrics and Their Importance:
+
 1.	**No Show Rate:** Percentage of confirmed bookings where guests fail to check in. High no-show rates directly impact both revenue and operational planning.
 
-        **Formula:** (No Shows / Total Bookings)×100
+   	   Formula: (No Shows / Total Bookings)×100
    
 2.	**DURN (Daily Utilized Room Nights):** Total number of rooms occupied on a given day, reflecting demand fulfillment.
 
@@ -29,16 +30,16 @@ This case study focuses on analyzing critical metrics such as **occupancy, ADR, 
 	
 4.	**ADR (Average Daily Rate)**: Measures the average revenue earned per occupied room, indicating pricing efficiency.
    
-       **Formula:**  Revenue / Number of Occupied Rooms
+          Formula:  Revenue / Number of Occupied Rooms
 5.	**DBRN (Daily Booked Room Nights)**: Total room nights booked per day, providing insights into booking trends.
 
 6.	**RevPAR (Revenue Per Available Room):** Combines occupancy and ADR to measure overall revenue performance.
    
-        **Formula:** Revenue / Number of Available Rooms.
+          Formula: Revenue / Number of Available Rooms.
    
 7.	**Realization Percentage:** Indicates revenue efficiency after accounting for cancellations, no-shows, and discounts.
     
-        **Formula:** (Revenue Earned / Revenue Booked)×100.
+          Formula: (Revenue Earned / Revenue Booked)×100.
 
 ## Key Findings and Insights:
 1.	**Revenue by Room Class:** Luxury rooms accounted for 61.62% of total revenue, underscoring their significance but also highlighting the need to diversify offerings for mid-range and business travelers.
