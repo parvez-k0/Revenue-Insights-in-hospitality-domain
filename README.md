@@ -38,16 +38,20 @@ Their revenue management team had decided to hire a 3rd party service provider t
           Formula: (Revenue Earned / Revenue Booked)×100.
 
 ## Key Findings and Insights:
-1.	**Revenue by Room Class:** Luxury rooms accounted for 61.62% of total revenue, underscoring their significance but also highlighting the need to diversify offerings for mid-range and business travelers.
-2.	**Weekday vs. Weekend Dynamics:** Weekends **(Friday and Saturday)** showed an average occupancy of **62.64%,** compared to **55.85% on weekdays**. This suggests potential for targeted weekday promotions to increase revenue.
-3.	**Direct Booking Platforms:** Platforms with **direct bookings** delivered the highest realization **percentage (70.6%)**, emphasizing the value of loyalty programs and direct engagement with guests.
-4.	**Property Performance:**
 
-   	o**Top-Performing Properties:** "Atliq City" in **Mumbai generated highest revenue followed by Banglore and Hyderabad**, showcasing strong revenue potential in the city.
-  	
-   	o**Underperforming Locations:** Properties in certain cities lagged behind, requiring localized marketing efforts and dynamic pricing strategies.
-6.	**Booking Channel Optimization**: OTAs showed higher volumes but lower realization percentages, pointing to the need for better negotiation or prioritizing direct bookings.
-
+1. 𝐌𝐮𝐦𝐛𝐚𝐢 generates the highest revenue (𝟔𝟔𝟏𝐌𝐢𝐥𝐥𝐢𝐨𝐧) followed by Bangalore, Hyderabad and Delhi.
+ 
+2. 𝐀𝐭𝐥𝐢𝐐 𝐄𝐱𝐨𝐭𝐢𝐜𝐚 performs better compared to all 7 properties with 𝟑𝟏𝟕𝐌𝐢𝐥𝐥𝐢𝐨𝐧 revenue and occupancy 57% and cancellation rate 24.39%.
+ 
+3. 𝐀𝐭𝐥𝐢𝐐 𝐒𝐞𝐚𝐬𝐨𝐧𝐬 performs worst compared to all properties with total revenue 𝟔𝟓𝐌𝐢𝐥𝐥𝐢𝐨𝐧, occupancy 44.57% with average rating 2.30%.
+ 
+4. AtliQ Blu has the highest Occupancy rate which is 62%.
+ 
+5. 𝐖𝐞𝐞𝐤 𝟐𝟗 recorded the highest occupancy of revenue among all which is 𝟏𝟑𝟗.𝟕𝟑 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 followed by 𝐰𝐞𝐞𝐤 𝟐𝟒 which is 139.58 Million.
+ 
+6. Delhi has the highest rating 3.78% and occupancy percentage is around 61%.
+ 
+7. AtliQ lost around 𝟏𝟗𝟕 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐢𝐧 𝐜𝐚𝐧𝐜𝐞𝐥𝐥𝐚𝐭𝐢𝐨𝐧.
 
 
 
