@@ -8,34 +8,6 @@ Atliq Grands owns multiple 5-Star Hotels across India. They have been in the hos
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
-## Approach:
-1.	**Organized the Data:** We gathered all the information about properties, cities, room types, and booking platforms into one place for easier analysis
-2.	**Trend Analysis:** We examined how revenue and occupancy changed throughout the week, identifying when business was booming and when it was slow.
-3.	**Performance Benchmarking:** We identified the properties and platforms that were doing well, so we could understand what worked and find areas for improvement.
-4.	**Platform-Specific Insights:** We studied how different booking platforms affected revenue, looking at which ones generated the most bookings and which ones gave us the best value (realization percentage).
-
-## Key Metrics and Their Importance:
-
-1.	**No Show Rate:** Percentage of confirmed bookings where guests fail to check in. High no-show rates directly impact both revenue and operational planning.
-
-   	    Formula: (No Shows / Total Bookings)×100
-   
-2.	**DURN (Daily Utilized Room Nights):** Total number of rooms occupied on a given day, reflecting demand fulfillment.
-
-3.	**DSRN (Daily Sellable Room Nights):** Total room inventory available for sale daily. Essential for capacity planning.
-	
-4.	**ADR (Average Daily Rate)**: Measures the average revenue earned per occupied room, indicating pricing efficiency.
-   
-          Formula:  Revenue / Number of Occupied Rooms
-5.	**DBRN (Daily Booked Room Nights)**: Total room nights booked per day, providing insights into booking trends.
-
-6.	**RevPAR (Revenue Per Available Room):** Combines occupancy and ADR to measure overall revenue performance.
-   
-          Formula: Revenue / Number of Available Rooms.
-   
-7.	**Realization Percentage:** Indicates revenue efficiency after accounting for cancellations, no-shows, and discounts.
-    
-          Formula: (Revenue Earned / Revenue Booked)×100.
 
 ## Key Findings and Insights:
 
